@@ -2,7 +2,7 @@ package Candidatura;
 
 import java.util.concurrent.ThreadLocalRandom;
 
-public class ProcessoSeletivo {
+public class ProcessoSeletivo2 {
     public static void main(String[] args) {
         selecaoCandidatos();
 
